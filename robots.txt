@@ -1,0 +1,1 @@
+Sitemap: https://micedre.github.io/formation-mlops/sitemap.xml
